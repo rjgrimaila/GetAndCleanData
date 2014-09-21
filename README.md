@@ -18,10 +18,9 @@ This **README.md** document explains how all of the scripts in this repo work an
 4. Appropriately labels the data set with descriptive variable names.  
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.  
 
-mad props to [David's Project FAQ](https://class.coursera.org/getdata-007/forum/thread?thread_id=49)   
-
-
-  
 **tidy.txt** is the txt file described above, created with write.table() using row.name=FALSE  
 
+   
+mad props to [David's Project FAQ](https://class.coursera.org/getdata-007/forum/thread?thread_id=49)   
+   
 *****

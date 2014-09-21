@@ -6,7 +6,7 @@ date: "September 20, 2014"
 *****  
 This document **CodeBook.md** is a code book that describes the variables, the data, and any transformations or work that was performed to clean up the data.  
 
-I have chosen to use camelCase in naming variables.  I tried all lowercase, but kept getting confused.
+I have chosen to use camelCase in naming variables.  
 
 ####Variables  
 There are 561 variables itemized in the file **features.txt**  
