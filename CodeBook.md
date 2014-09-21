@@ -36,6 +36,12 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 The data for the project was downloaded as the following [zip file](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)  
 
+That file was unzips a a directory labelled "UCI HAR Dataset".  That directory is at the same level as the project directory that this code is run from.  That is ...
+
+.../dir/UCI HAR Dataset/
+.../dir/GetAndCleanData/
+   
+   
 From the README.txt contained within the zip file we find that ...  
 The dataset includes the following files:  
 =========================================  
