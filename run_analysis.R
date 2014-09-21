@@ -83,5 +83,5 @@ tidy = aggregate(combinedData, by=list(activity = combinedData$activity, subject
 # col 3&4 are now gibberish, so remove them
 tidy <- subset(tidy[ ,c(-3,-4)])
 # use write.table() using row.name=FALSE
-write.table(tidy, file = "tidy.csv", sep = ",", row.name=FALSE)
+write.table(tidy, file = "tidy.txt", sep = ",", row.name=FALSE)
 

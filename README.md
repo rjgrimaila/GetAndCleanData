@@ -22,6 +22,6 @@ mad props to [David's Project FAQ](https://class.coursera.org/getdata-007/forum/
 
 
   
-**tidyDataSet.csv** is the txt file described above, created with write.table() using row.name=FALSE  
+**tidy.txt** is the txt file described above, created with write.table() using row.name=FALSE  
 
 *****
